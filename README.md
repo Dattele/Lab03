@@ -4,7 +4,7 @@
 Program that calculates the perimeter and the area of a rectangle after the user inputs width and height
 
 # Question1B.cpp
-Program that calculates the petimeter and area of a circle after user inputs radius
+Program that calculates the perimeter and area of a circle after user inputs radius
 
 # Question2A.cpp
 Program that prompts the user to enter username and password and logs them in if both match
